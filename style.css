@@ -1,0 +1,104 @@
+*{
+   margin: 0;
+    padding: 5px;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+.heading{
+    font-size: 40px;
+    color: black;
+}
+
+td{
+    color: black;
+    text-align: center;
+    width: 5vw; /* pixel(px) = (viewport width unit(vw) * viewport width/100 */
+    border: 1px solid white;
+    font-weight: 700;
+    size: 12px;
+}
+
+.none{
+    border: none;
+}
+.color1{
+    background-color: rgb(14, 209, 14);
+    
+   
+}
+.color2{
+    background-color: rgb(221, 24, 24);
+
+}
+.color3{
+    background-color: orange;
+
+}
+.color4{
+    background-color: rgb(238, 145, 176);
+}
+.color5{
+    background-color: rgb(238, 238, 19);
+}
+.color6{
+    background-color: rgb(125, 206, 238);
+}
+.color7{
+    background-color: rgb(223, 120, 223);
+}
+.color8{
+    background-color: rgb(103, 84, 221);
+
+}
+.color9{
+    background-color: rgb(115, 207, 155);
+}
+.color10{
+    background-color: rgb(201, 190, 190);
+}
+.color1:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color2:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color3:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color4:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color5:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color6:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color6:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color7:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color8:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color9:hover{
+    filter: brightness(200%);
+    color: black;
+}
+.color10:hover{
+    filter: brightness(200%);
+    color: black;
+}
